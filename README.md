@@ -25,13 +25,13 @@ You are welcome to contribute! Pull requests must meet the following criteria
 - [GeeksForGeeks](https://www.geeksforgeeks.org/) (site)
 - [guru99](https://www.guru99.com/) (site)
 - [HackerNoon](https://hackernoon.com/) (site)
-- [Rob Braman Tech](https://youtube.com/channel) (Youtube)
 - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) (Youtube)
 - [thenewboston](https://www.youtube.com/user/thenewboston) (Youtube)
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm) (site)
 - [Udacity](https://www.udacity.com)
 - [Udemy](https://www.udemy.com/)
 - [W3SchoolsIn](https://www.w3schools.in/) (site)
+- [Logit.io - interviews with leaders in Cybersecurity, AI & Tech](https://logit.io/blog?f=interview) (site)
 
 ### Data Science
 
